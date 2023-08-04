@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Li Zhaoyi (Joey).
 - 👀 I’m interested in understanding & enhancing neural language systems, especially when it comes to the following topics:
--   1): measuring the compositionality of knowledge/representations learned by sota pre-trained language models;
--   2): composiitonal generalization and interpreting complex reasoning capacity of (large) neural language models;
-- 🌱 I’m currently a graduate student pursuing my Msc degree at University of Science and Technology of China, School of Computer Science. 
+-   1): inspecting the compositionality of knowledge/representations in the large pre-trained language models;
+-   2): composiitonal generalization and complex compositional reasoning capacity of (large) neural language models;
+- 🌱 I’m currently a PhD student at University of Science and Technology of China and City University of Hong Kong, Department of Computer Science. 
 - 📫 How to reach me : lizhaoyi777@mail.ustc.edu.cn or joeylee2333@gmail.com, feel free to drop me an email if you want to discuss on the above topics with me :D
 
 <!---
